@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VIA Telecom Utilities</string>
+    <string name="eab_name">ETS Agent on Bluetooch</string>
+    <string name="eab_tgl_on">ETS Agent on Bluetooch is working</string>
+    <string name="eab_tgl_off">Open ETS Agent on Bluetooch</string>
+</resources>

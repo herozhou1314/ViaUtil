@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ToggleButton
+        android:id="@+id/tbtnEABService"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton" android:textOff="@string/eab_tgl_off" android:textOn="@string/eab_tgl_on"/>
+
+    <ListView
+        android:id="@+id/lvLog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:transcriptMode="alwaysScroll" >
+    </ListView>
+
+</LinearLayout>
